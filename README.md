@@ -13,8 +13,7 @@ This project is a React application that provides a login page and displays a li
 - File Structure
 - API Reference
 - Authors
-- License
-- Acknowledgments
+- Contributing
 
 ## Features
 - Login page with form validation
@@ -31,15 +30,15 @@ This project is a React application that provides a login page and displays a li
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Anushjp/country-info-app.git
-2. Navigate to the project directory: cd react-country-info-app
-3. Install the dependencies: npm install
+1. Clone the repository: **git clone https://github.com/Anushjp/country-info-app.git**
+2. Navigate to the project directory: **cd react-country-info-app**
+3. Install the dependencies: **npm install**
 
 ## Running the Application
 
 To start the application in development mode, run: npm start
 
-Open http://localhost:3000 to view it in your browser.
+Open [Country Info App](https://country-info-app-neon.vercel.app/) to view it in your browser.
 
 ## Building the Application
 
@@ -65,6 +64,8 @@ This application can be deployed to Vercel. Follow these steps:
   -  Click on "Deploy".
 
 Your application will be deployed, and you will get a live URL to view it.
+
+URL: [Country Info App](https://country-info-app-neon.vercel.app/)
 
 ## File Structure
 src/
