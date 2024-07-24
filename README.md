@@ -67,7 +67,7 @@ This application can be deployed to Vercel. Follow these steps:
 Your application will be deployed, and you will get a live URL to view it.
 
 ## File Structure
-src/
+app/
 │
 ├── components/
 │   ├── Home.js
