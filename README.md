@@ -66,19 +66,6 @@ This application can be deployed to Vercel. Follow these steps:
 
 Your application will be deployed, and you will get a live URL to view it.
 
-## File Structure
-app/
-│
-├── components/
-│   ├── Home.js
-│   ├── Login.js
-│   └── ...
-│
-├── App.js
-├── index.js
-├── Login.css
-└── ...
-
 ## API Reference
 
 The application fetches country data from the following API endpoint:
