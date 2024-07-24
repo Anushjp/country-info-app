@@ -25,13 +25,12 @@ This project is a React application that provides a login page and displays a li
 
 1. Ensure you have the following installed on your machine:
 
-    - Node.js
     - npm
 
 ## Installation
 
 1. Clone the repository: **git clone https://github.com/Anushjp/country-info-app.git**
-2. Navigate to the project directory: **cd react-country-info-app**
+2. Navigate to the project directory: **cd country-info-app**
 3. Install the dependencies: **npm install**
 
 ## Running the Application
@@ -55,7 +54,7 @@ This application can be deployed to Vercel. Follow these steps:
 1. Sign up or log in to Vercel.
 2. Import your repository:
   -  Click on "New Project".
-  -  Select your Git provider (GitHub, GitLab, Bitbucket).
+  -  Select your Git provider (GitHub).
   -  Find your repository and import it.
 3. Configure the project settings:
   -  Ensure that the "Framework Preset" is set to "Create React App".
